@@ -1,6 +1,6 @@
 name: toxic_flutter
 description: "Toxic Flutter additions from inspired from the toxic package"
-version: 1.0.2
+version: 1.0.2+1
 homepage: https://github.com/ArcaneArts/toxic_flutter
 environment:
   sdk: '>=3.0.0 <4.0.0'

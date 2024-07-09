@@ -41,6 +41,7 @@ class StreamOnceState<T> extends State<StreamOnce<T>> {
   void initState() {
     super.initState();
     _stream = widget.streamFactory();
+    _subject = BehaviorSubject<T>();
     _subscription = _stream.listen((event) => _subject.add(event));
   }
 
