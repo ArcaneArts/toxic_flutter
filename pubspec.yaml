@@ -1,10 +1,9 @@
 name: toxic_flutter
 description: "Toxic Flutter additions from inspired from the toxic package"
-version: 1.0.0
+version: 1.0.2
 homepage: https://github.com/ArcaneArts/toxic_flutter
 environment:
-  sdk: ^3.5.0-315.0.dev
-  flutter: ">=1.17.0"
+  sdk: '>=3.0.0 <4.0.0'
 dependencies:
   rxdart: any
   flutter:
