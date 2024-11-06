@@ -1,3 +1,6 @@
+## 1.1.0
+* Change expanded to expand on widgets
+
 ## 1.0.2
 
 * Stream / Future once classes

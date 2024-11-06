@@ -9,7 +9,7 @@ extension XWidget on Widget {
 
   Widget get centered => Center(child: this);
 
-  Widget get expanded => Expanded(child: this);
+  Widget get expand => Expanded(child: this);
 
   Widget get safeArea => SafeArea(child: this);
 
